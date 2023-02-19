@@ -1,0 +1,7 @@
+cd
+mkdir
+[D[D[D[D[D[D[D[D[Dtouch
+vim
+pwd
+rm
+mv
