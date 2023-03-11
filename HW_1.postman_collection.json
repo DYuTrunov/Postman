@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "5789d5f0-9013-4a47-8688-f3a42c668368",
-		"name": "Ksendzov",
+		"_postman_id": "0bbeb43e-9837-4404-8ecd-185c4abfbdb2",
+		"name": "HW_1",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "15930840"
+		"_exporter_id": "26187989"
 	},
 	"item": [
 		{
@@ -12,9 +12,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{ksendzov}}/get_method?name=Dmitry&age=35",
+					"raw": "{{url}}/get_method?name=Dmitry&age=35",
 					"host": [
-						"{{ksendzov}}"
+						"{{url}}"
 					],
 					"path": [
 						"get_method"
@@ -62,9 +62,9 @@
 					]
 				},
 				"url": {
-					"raw": "{{ksendzov}}/user_info_3",
+					"raw": "{{url}}/user_info_3",
 					"host": [
-						"{{ksendzov}}"
+						"{{url}}"
 					],
 					"path": [
 						"user_info_3"
@@ -79,9 +79,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{ksendzov}}/object_info_1?name=Dmitry&age=35&weight=94",
+					"raw": "{{url}}/object_info_1?name=Dmitry&age=35&weight=94",
 					"host": [
-						"{{ksendzov}}"
+						"{{url}}"
 					],
 					"path": [
 						"object_info_1"
@@ -110,9 +110,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{ksendzov}}/object_info_2?name=Dmitry&age=35&salary=45000",
+					"raw": "{{url}}/object_info_2?name=Dmitry&age=35&salary=45000",
 					"host": [
-						"{{ksendzov}}"
+						"{{url}}"
 					],
 					"path": [
 						"object_info_2"
@@ -141,9 +141,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{ksendzov}}/object_info_3?name=Dmitry&age=35&salary=45000",
+					"raw": "{{url}}/object_info_3?name=Dmitry&age=35&salary=45000",
 					"host": [
-						"{{ksendzov}}"
+						"{{url}}"
 					],
 					"path": [
 						"object_info_3"
@@ -172,9 +172,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{ksendzov}}/object_info_4?name=Dmitry&age=35&salary=45000",
+					"raw": "{{url}}/object_info_4?name=Dmitry&age=35&salary=45000",
 					"host": [
-						"{{ksendzov}}"
+						"{{url}}"
 					],
 					"path": [
 						"object_info_4"
@@ -223,9 +223,9 @@
 					]
 				},
 				"url": {
-					"raw": "{{ksendzov}}/user_info_2",
+					"raw": "{{url}}/user_info_2",
 					"host": [
-						"{{ksendzov}}"
+						"{{url}}"
 					],
 					"path": [
 						"user_info_2"
