@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "EP_1",
+			"name": "get_method",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -34,7 +34,7 @@
 			"response": []
 		},
 		{
-			"name": "EP_2",
+			"name": "user_info_3",
 			"protocolProfileBehavior": {
 				"strictSSL": false
 			},
@@ -74,7 +74,7 @@
 			"response": []
 		},
 		{
-			"name": "EP_3",
+			"name": "object_info_1",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -105,7 +105,7 @@
 			"response": []
 		},
 		{
-			"name": "EP_4",
+			"name": "object_info_2",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -136,7 +136,7 @@
 			"response": []
 		},
 		{
-			"name": "EP_5",
+			"name": "object_info_3",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -167,7 +167,7 @@
 			"response": []
 		},
 		{
-			"name": "EP_6",
+			"name": "object_info_4",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -198,7 +198,7 @@
 			"response": []
 		},
 		{
-			"name": "EP_7",
+			"name": "user_info_2",
 			"request": {
 				"method": "POST",
 				"header": [],
